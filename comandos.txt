@@ -1,0 +1,500 @@
+    1  code.hello.c
+    2  code hello.c
+    3  make hello
+    4  make hello
+    5  make hello
+    6  ./hello
+    7   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-kqgr3iev.oh5 
+    8  gcc concatenar.c
+    9  ./concatenar.c
+   10  whoami
+   11  pwd
+   12  mkdir folder1
+   13  pwd
+   14  ls
+   15  cd folder1/
+   16  code file1.txt
+   17  ls
+   18  touch file2.txt
+   19  code file2.txt
+   20  history
+   21  pwd
+   22  cd ..
+   23  return
+   24  pwd
+   25  return
+   26  cd ..
+   27  ls folder1/
+   28  ls folder1/
+   29  cd ..
+   30  ls folder1
+   31  pwd
+   32  pwd
+   33  pwd
+   34  whoami
+   35  pwd
+   36  touch folder2/file3.txt
+   37  pwd
+   38  ls
+   39  mkdir folder2
+   40  whoami
+   41  pwd
+   42  mkdir folder1
+   43  pef
+   44  pwd
+   45  ls
+   46  cd folder1
+   47  code file1.txt
+   48  code file2.txt
+   49  code file3.txt
+   50  ls
+   51  mkdir FolderA
+   52  pwd
+   53  pwd
+   54  pwd
+   55  cd
+   56  mkdir folder1
+   57  pwd
+   58  ls
+   59  cd folder1/
+   60  code file1.txt
+   61  touch file2.txt
+   62  code file2.txt
+   63  return
+   64  cd ..
+   65  touch folder1/file3.txt
+   66  cd folder1/
+   67  mkdir soy un burro
+   68  return
+   69  cd ..
+   70  mkdir "soy un burro"
+   71  rm - rf soy un burro "soy un burro"
+   72  rm-rf soy un burro "soy un burro"
+   73  rm -rf soy un burro "soy un burro"
+   74  history > historial.txt
+   75  cat historial.txt
+   76  history
+   77  code agree.c
+   78  make agree
+   79  make agree
+   80  make agree
+   81  ./ agree
+   82  ./agree
+   83  ./agree
+   84  make agree
+   85  ./agree
+   86  ./agree
+   87  ./agreer
+   88  ./agree
+   89  clear
+   90  ./agree
+   91  ./agree
+   92  ./agree
+   93  ./agree
+   94  make agree
+   95  make agree
+   96  make agree
+   97  ./ agree
+   98  ./agree
+   99  code hello.c
+  100  make hello
+  101  make hello
+  102  make hello
+  103  make hello
+  104  code hola
+  105  code hola .c
+  106  code hola.c
+  107  make hola.c
+  108  make hola
+  109  make hola
+  110  make hola
+  111  ./hola
+  112  echo
+  113  make hola
+  114  ./hola
+  115  echo $?
+  116  make concatenar
+  117  ./concatenar
+  118  make hola
+  119  ./hola
+  120  make hola
+  121  ./hola
+  122  make hola
+  123  ./hola
+  124  make hola
+  125  ./hola
+  126  make hola
+  127  ./hola
+  128  make hola
+  129  ./hola
+  130  make hola
+  131  ./hola
+  132  echo $?
+  133  make hola
+  134  ./hola
+  135  make hola
+  136  ./hola
+  137  make hola
+  138  ./hola
+  139  make hola
+  140  ./hola
+  141  make hola
+  142  make hola
+  143  ./hola
+  144  echo $?
+  145  make hola
+  146  ./hola
+  147  make hola
+  148  ./hola
+  149  make hola
+  150  ./hola
+  151  make hola
+  152  ./hola
+  153  make hola
+  154  ./hola
+  155  make hola
+  156  ./hola
+  157  make hola
+  158  ./hola
+  159  ls
+  160  touch hola.c
+  161  touch hola
+  162  make hola
+  163  ./hola
+  164  mkdir folder1/ folder1a/ folder2
+  165  mkdir -p folderuno/ foldera/ folder1a folder2/ folderx
+  166  mkdir -p folder1/folder2/folder3 folder4/folderx
+  167  mkdir -p folder1/folder2/folder3, folder4/folderx
+  168  mkdir -p folder1/folder2/folder3,folder4/folderx
+  169  mkdir folder1/folder2/folder3 folder1/folder2/folder4/folderx
+  170  mkdir -p folder1/folder2/folder3 folder1/folder2/folder4/folderx
+  171  mkdir -p folder1/folder2/folder3 folder1/folder2/folder4/folderx && touch folder1/folder2/folder4/bucles.c
+  172  cd folder4
+  173  cd folder1
+  174  cd folder2
+  175  cd folder4
+  176  cd folderx
+  177  gcc../bucles.c
+  178  ../bucles.c
+  179  gcc ../bucles.c
+  180  ../bucles.c
+  181  gcc ../bucles
+  182  gcc ../bucles.c
+  183  cat ../bucles
+  184  cd ..
+  185  cd folderx
+  186  gcc ../bucles.c
+  187  ../bucles.c
+  188  gcc ../bucleds
+  189  gcc ../bucles
+  190  g++ ../bucles.cpp
+  191  g++ ../bucles.cpp
+  192  gcc ../bucles.c -o bucles
+  193  gcc ../bucles.c -o ../bucles
+  194  gcc ../bucles.c -o ../bucles
+  195  gcc ../bucles.c -o ..bucles
+  196  gcc ../bucles.c -o ../bucles
+  197  ls
+  198  pwd
+  199  mkdir homework
+  200  touch homework
+  201  cd homework
+  202  touch three_numbers.c, five_numbers.c, onehundred_numbers.c
+  203  touch three_numbers.c five_numbers.c onehundred_numbers.c
+  204  code three_numbers.c 
+  205  make three_numbers 
+  206  ./three_numbers 
+  207  make onehundred_numbers 
+  208  ./onehundred_numbers 
+  209  cd..
+  210  return
+  211  cd ..
+  212  make concatenar 
+  213  ./concatenar 
+  214  cd homework
+  215  make three_numbers 
+  216  ./three_numbers 
+  217  make five_numbers 
+  218  ./five_numbers 
+  219  code five_numbers_array.c
+  220  make five_numbers_arrays.c
+  221  ./five_numbers_arrays
+  222  make five_numbers_array.c
+  223  ./five_numbers _array
+  224  make five_numbers_array.c
+  225  ./
+  226  pwd
+  227  cd homework
+  228  cd homework
+  229  make five_number_arrays
+  230  make five_numbers_array
+  231  make five_numbers_array
+  232  make five_numbers_array
+  233  ./ five_numbers.c
+  234  ./five_numbers
+  235  ./ five_numbers_array
+  236  make five_numbers_array
+  237  ./five_numbers_array
+  238  make five_numbers_array.c
+  239  n
+  240  pwd
+  241  cd homework
+  242  make five_numbers_array
+  243  ./five_numbers_array
+  244  code while.c
+  245  make while 
+  246  make while 
+  247  make while 
+  248  ./while 
+  249  make while 
+  250  ./while 
+  251  cd homework
+  252  make while 
+  253  ./while 
+  254  make while 
+  255  ./while 
+  256  code whilemeow.c
+  257  make while
+  258  ./while 
+  259  make while
+  260  ./while 
+  261  make 
+  262  make while
+  263  ./while 
+  264  make whilemeow
+  265  ./whilemeow
+  266  make five_numbers_array
+  267  make five_numbers_array
+  268  make five_numbers_array
+  269  ./five_numbers_array
+  270  code table.c
+  271  make table 
+  272  make table 
+  273  ./table
+  274  make table 
+  275  ./table 
+  276  make table 
+  277  make table 
+  278  make table 
+  279  ./table 
+  280  make table 
+  281  ./table 
+  282  make table 
+  283  ./table 
+  284  make table 
+  285  ./table 
+  286  make table 
+  287  ./table 
+  288  make table 
+  289  ./table 
+  290  make table 
+  291  code table_for.c
+  292  make table
+  293  ./table 
+  294  code table.py
+  295  code table
+  296  make table.py
+  297  ./table.py
+  298  make table.py
+  299  make table.py
+  300  ./table.py
+  301  python table.py
+  302  code table_while.py
+  303  python table_while.py
+  304  python table_while.py
+  305  python table_while.py
+  306  python table_while.py
+  307  python table_while.py
+  308  python table_while.py
+  309  python
+  310  code numbers_onehundred.c
+  311  make numbers_onehundred 
+  312  make numbers_onehundred 
+  313  make numbers_onehundred 
+  314  ./numbers_onehundred 
+  315  code numbers_onehundred.py
+  316  python numbers_onehundred.py 
+  317  python numbers_onehundred.py 
+  318  python numbers_onehundred.py 
+  319  make numbers_onehundred 
+  320  make numbers_onehundred 
+  321  ./numbers_onehundred 
+  322  code numbers_plus.c
+  323  make numbers_plus
+  324  make numbers_plus
+  325  make numbers_plus
+  326  make numbers_plus
+  327  make numbers_plus
+  328  make numbers_plus
+  329  make numbers_plus
+  330  make numbers_plus
+  331  make numbers_plus
+  332  ./numbers_plus
+  333  ./numbers_plus
+  334  make numbers_plus
+  335  ./numbers_
+  336  ./numbers_plus
+  337  make numbers_plus
+  338  ./numbers_plus
+  339  code mario.c
+  340  make mario 
+  341  /. mario
+  342  make mario 
+  343  ./ mario
+  344  make mario 
+  345  /mario.c
+  346  make mario 
+  347  ./mario.c
+  348  make mario 
+  349  ./mario 
+  350  make mario 
+  351  make mario 
+  352  make mario 
+  353  code block_mario.c
+  354  make block_mario 
+  355  ./block_mario 
+  356  make block_mario 
+  357  ./block_mario 
+  358  code bowser.c
+  359  make bowser
+  360  ./bowser
+  361  make mario 
+  362  make bowser
+  363  make bowser
+  364  ./bowser
+  365  make bowser
+  366  ./bowser
+  367  make block_mario 
+  368  make block_mario 
+  369  ./block_mario 
+  370  make b
+  371  make block_mario 
+  372  make bowser
+  373  ./bowser
+  374  make block_mario 
+  375  ./block_mario 
+  376  make bowser
+  377  make bowser
+  378  ./bowser
+  379  ./block_mario 
+  380  make bowser
+  381  make block_mario 
+  382  ./block_mario 
+  383  make bowser
+  384  ./bowser
+  385  CCC
+  386  ./block_mario 
+  387  make bowser
+  388  ./bowser
+  389  ./block_mario 
+  390  ./block_mario 
+  391  make mario 
+  392  make bowser
+  393  ./bowser
+  394  make mario 
+  395  make block_mario 
+  396  ./block_mario 
+  397  make block_mario 
+  398  make block_mario 
+  399  ./block_mario 
+  400  make block_mario 
+  401  ./block_mario 
+  402  code stairs.c
+  403  make stairs 
+  404  ./stairs 
+  405  5
+  406  make stairs 
+  407  ./stairs 
+  408  ./stairs 
+  409  ./stairs 
+  410  ./stairs 
+  411  code stage_marcio
+  412  code stage_marcio.c
+  413  make stage_marcio 
+  414  ./stage_marcio 
+  415  make stage_marcio 
+  416  ./stage_marcio 
+  417  ./stage_marcio 
+  418  make stage_marcio 
+  419  ./stage_marcio 
+  420  code gitbash.c
+  421  make gitbash 
+  422  make gitbash 
+  423  ./gitbash 
+  424  make gitbash 
+  425  ./gitbash 
+  426  ./gitbash 
+  427  make gitbash 
+  428  make gitbash 
+  429  ./gitbash 
+  430  make gitbash 
+  431  code tarea.c
+  432  make tarea 
+  433  ./tarea 
+  434  ./tarea 
+  435  pwd
+  436  git init
+  437  cd .. 
+  438  mkdir lasthomework
+  439  cd lasthomework
+  440  ls
+  441  code lasthwrk
+  442  code lasthwrk.c
+  443  make lasthwrk 
+  444  ./lasthwrk 
+  445  git init
+  446  git status
+  447  git add .
+  448  git status
+  449  git remote add origin https:
+  450  git remote add origin https://github.com//elunbucson/last_homework.git
+  451  git push
+  452  git commit -m "avance"
+  453  git reomte add origin https://github.com/elunbucson/last_homework.git
+  454  git remote add origin https://github.com/elunbucson/last_homework.git
+  455  git push
+  456  git push --set-upstream origin main
+  457  git init
+  458  git status
+  459  git remote add origin https://github.com/elunbucson/tarea.git
+  460  git remote -v
+  461  git remote origin
+  462  git remove origin
+  463  git remote add origin https://github.com/elunbucson/tarea.git
+  464  git add
+  465  git add.
+  466  git add .
+  467  git status
+  468  git commit -m "avance"
+  469  git push -u origin main
+  470  ssh -T git@github.com
+  471  ssh -T antomoravilla050811@gmail.com
+  472  pwd
+  473  pwd
+  474  cd ..
+  475  mkdir Programacion
+  476  cd Programacion/
+  477  code examen.c
+  478  make examen 
+  479  ./examen 
+  480  git init
+  481  git status
+  482  git add .
+  483  git status
+  484  history
+  485  history > comandos cmds.txt
+  486  git status
+  487  git add .
+  488  git commit -m "Entrega Final con Comandos"
+  489  git clone https://github.com/elnubucson/tarea.git
+  490  git remote add origin https://github.com/elunbucson/Programacion.git
+  491  git push
+  492  git push -u origin main
+  493  pwd
+  494  cd..
+  495  cd ..
+  496  ls
+  497  cd Programacion/
+  498  ls
+  499  history
+  500  history > comandos.txt
